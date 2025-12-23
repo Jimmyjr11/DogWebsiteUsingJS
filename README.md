@@ -8,6 +8,6 @@ Sign up and log in using cookies
 
 View a home page with an automatic image slider
 
-Browse dog images loaded dynamically from a public API
+Browse dog images loaded dynamically from a public API Using XMLHTTPSREQUEST
 
 Navigate between pages and view image details
